@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gkhays-mcp-sbom-server-badge.jpg)](https://mseep.ai/app/gkhays-mcp-sbom-server)
+
 # MCP SBOM Server
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
